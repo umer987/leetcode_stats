@@ -20,6 +20,9 @@ Example Response:
   "hardSolved": 21
 }
 📦 Installation
+## 🖼️ Preview
+
+![App Screenshot](screenshot.png)
 1. Clone the repository:
    git clone https://github.com/umer987/leetcode-stats.git
    cd leetcode-stats-viewer
@@ -36,8 +39,6 @@ Example Response:
 - JavaScript (ES6)
 - LeetCode Stats API
 🙋‍♂️ Author
-Your Name
+SYED MUHAMMAD UMER
 GitHub: https://github.com/umer987
-LinkedIn: #
-📄 License
-This project is licensed under the MIT License.
+
